@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Items</string>
+    <string name="line"> Not crossed <strike> crossed </strike> </string>
+</resources>
